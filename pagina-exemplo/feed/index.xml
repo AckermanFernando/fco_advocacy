@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre: FCO &#8211; Advocacy	</title>
-	<atom:link href="http://https://github.com/AckermanFernando/fco_advocacy/pagina-exemplo/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://github.com/AckermanFernando/fco_advocacy/</link>
+	<atom:link href="http://github.com/AckermanFernando/fco_advocacy/pagina-exemplo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/AckermanFernando/fco_advocacy/</link>
 	<description>Site de advocacia</description>
 	<lastBuildDate>Mon, 05 Apr 2021 02:56:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
